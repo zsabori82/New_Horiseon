@@ -12,14 +12,16 @@ CSS was structured logicaly
 Classes and elements were ordered alphabetically
 
 Links:
-Link to the deployed website
+Link to the deployed website:
+  https://zsabori82.github.io/New_Horiseon/
 
-Link to the code repository
+Link to the code repository:
+http://127.0.0.1:5500/New_Horiseon/index.html
 
 Installation:
 
 Upload index.html, license.txt, and assets folder to the deployed webserver. The assets folder contains images and CSS files.
 
+Usage: 
 
-Usage
 The deployed project can be viewed in a traditional desktop web browser.(laptop) It it needs  optimization for different size of screens.
